@@ -4,9 +4,9 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-red)
-![Java](https://img.shields.io/badge/Java-green)
-![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow)
+![Python](https://img.shields.io/badge/Python-red?logo=python)
+![Java](https://img.shields.io/badge/Java-green?logo=openjdk)
+![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?javascript)
 
 ### Back-End
 ![Django](https://img.shields.io/badge/Django-red?logo=django)
