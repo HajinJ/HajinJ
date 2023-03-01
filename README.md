@@ -5,14 +5,14 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-9cf?logo=python)
-![Java](https://img.shields.io/badge/Java-9cf?logo=openjdk)
+![Java](https://img.shields.io/badge/Java-ff69b4?logo=openjdk)
 ![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-lightgrey?logo=javascript)
 
 ### Back-End
 ![Django](https://img.shields.io/badge/Django-9cf?logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-9cf?logo=fastapi)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-9cf?logo=SpringBoot)
-![JPA](https://img.shields.io/badge/JPA-9cf?logo=SpringBoot)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-ff69b4?logo=SpringBoot)
+![JPA](https://img.shields.io/badge/JPA-ff69b4?logo=SpringBoot)
 
 ### Front-End
 ![React](https://img.shields.io/badge/React.js-lightgrey?logo=react)
