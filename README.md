@@ -18,8 +18,8 @@
 ![React](https://img.shields.io/badge/React.js-yellow?logo=react)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-red?logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-inactive?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-inactive?logo=oracle)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-ff69b4?logo=pandas)
