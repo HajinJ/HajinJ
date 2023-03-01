@@ -4,13 +4,13 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-ff69b4?logo=python)
+![Python](https://img.shields.io/badge/Python-9cf?logo=python)
 ![Java](https://img.shields.io/badge/Java-9cf?logo=openjdk)
 ![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-lightgrey?logo=javascript)
 
 ### Back-End
-![Django](https://img.shields.io/badge/Django-ff69b4?logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff69b4?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-9cf?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-9cf?logo=fastapi)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-9cf?logo=SpringBoot)
 ![JPA](https://img.shields.io/badge/JPA-9cf?logo=SpringBoot)
 
@@ -24,11 +24,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-important?logo=oracle)
 
 ### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-ff69b4?logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-ff69b4?logo=numpy)
-![jupyter](https://img.shields.io/badge/jupyter-ff69b4?logo=jupyter)
-![scikit-learn](https://img.shields.io/badge/scikit%20learn-ff69b4?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?logo=TensorFlow)
+![Pandas](https://img.shields.io/badge/Pandas-9cf?logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-9cf?logo=numpy)
+![jupyter](https://img.shields.io/badge/jupyter-9cf?logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-9cf?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-9cf?logo=TensorFlow)
 
 ## :wrench: Tech Stats
 <div align=center>
