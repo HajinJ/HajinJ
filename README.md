@@ -1,6 +1,6 @@
 ## :running: HaJin <a href="https://www.naver.com" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHajinJ&count_bg=%236AA4A7&title_bg=%23B72626&icon=googlefit.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-## :star: Tech Stack
+## 📑 Tech Stack
 
 ### Languages
 
@@ -28,7 +28,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-ff69b4?logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?logo=TensorFlow)
 
-## :fire: Tech Stats
+## :wrench: Tech Stats
 <div align=center>
 
 <a href="https://opgc.me/#/users/hajinJ" target="_blank"><img src="https://api.opgc.me/githubs/users/hajinJ/tag/?theme=basic" /></a>
