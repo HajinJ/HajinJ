@@ -14,6 +14,20 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?logo=SpringBoot)
 ![JPA](https://img.shields.io/badge/JPA-green?logo=SpringBoot)
 
+### Front-End
+![React](https://img.shields.io/badge/React.js-yellow?logo=react)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-red?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)
+
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-ff69b4?logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-ff69b4?logo=numpy)
+![jupyter](https://img.shields.io/badge/jupyter-ff69b4?logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-ff69b4?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?logo=TensorFlow)
+
 ## :fire: Tech Stats
 <div align=center>
 
