@@ -4,13 +4,13 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-red?logo=python)
+![Python](https://img.shields.io/badge/Python-ff69b4?logo=python)
 ![Java](https://img.shields.io/badge/Java-green?logo=openjdk)
-![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?javascript)
+![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?logo=javascript)
 
 ### Back-End
-![Django](https://img.shields.io/badge/Django-red?logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-red?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-ff69b4?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-ff69b4?logo=fastapi)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?logo=SpringBoot)
 ![JPA](https://img.shields.io/badge/JPA-green?logo=SpringBoot)
 
