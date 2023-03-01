@@ -6,7 +6,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-purple?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?logo=javascript)
 
 ## :fire: Tech Stats
