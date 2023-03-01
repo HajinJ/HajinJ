@@ -1,5 +1,4 @@
 ## :running: HaJin <a href="https://www.naver.com" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
-<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHajinJ&count_bg=%236AA4A7&title_bg=%23B72626&icon=googlefit.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :star: Tech Stack
 
@@ -8,6 +7,12 @@
 ![Python](https://img.shields.io/badge/Python-red)
 ![Java](https://img.shields.io/badge/Java-green)
 ![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow)
+
+### Back-End
+![Django](https://img.shields.io/badge/Django-red?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-red?logo=fastapi)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?logo=SpringBoot)
+![JPA](https://img.shields.io/badge/JPA-green?logo=SpringBoot)
 
 ## :fire: Tech Stats
 <div align=center>
