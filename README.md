@@ -16,6 +16,8 @@
 
 ### Front-End
 ![React](https://img.shields.io/badge/React.js-lightgrey?logo=react)
+![jQuery](https://img.shields.io/badge/jQuery-lightgrey?logo=jquery)
+![CSS&Sass](https://img.shields.io/badge/CSS&Sass-lightgrey?logo=CSS3)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-important?logo=mysql)
