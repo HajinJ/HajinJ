@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232D979C&title_bg=%23AE3434&icon=googlefit.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **HajinJ/HajinJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
