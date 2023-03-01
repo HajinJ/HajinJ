@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-ff69b4?logo=python)
 ![Java](https://img.shields.io/badge/Java-9cf?logo=openjdk)
-![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?logo=javascript)
+![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-lightgrey?logo=javascript)
 
 ### Back-End
 ![Django](https://img.shields.io/badge/Django-ff69b4?logo=django)
@@ -15,7 +15,7 @@
 ![JPA](https://img.shields.io/badge/JPA-9cf?logo=SpringBoot)
 
 ### Front-End
-![React](https://img.shields.io/badge/React.js-yellow?logo=react)
+![React](https://img.shields.io/badge/React.js-lightgrey?logo=react)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-inactive?logo=mysql)
