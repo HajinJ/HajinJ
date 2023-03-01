@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-purple?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
-![Javascript](https://img.shields.io/badge/ES6-yellow?logo=javascript)
+![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-yellow?logo=javascript)
 
 ## :fire: Tech Stats
 <div align=center>
