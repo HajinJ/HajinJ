@@ -32,8 +32,7 @@
 
 ## :wrench: GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HajinJ&show_icons=true&count_private=true&theme=ayu-mirage" alt="HajinJ" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="avasconcelos114" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="HajinJ" height="140"/>
 </p>
 <div align=center>
 
