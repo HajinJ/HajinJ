@@ -30,7 +30,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-9cf?logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9cf?logo=TensorFlow)
 
-## :wrench: Tech Stats
+## :wrench: GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HajinJ&show_icons=true&count_private=true&theme=ayu-mirage" alt="HajinJ" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="avasconcelos114" height="140"/>
+</p>
 <div align=center>
 
 <a href="https://opgc.me/#/users/hajinJ" target="_blank"><img src="https://api.opgc.me/githubs/users/hajinJ/tag/?theme=basic" /></a>
