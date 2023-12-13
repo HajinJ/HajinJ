@@ -38,7 +38,5 @@
 
 <a href="https://opgc.me/#/users/hajinJ" target="_blank"><img src="https://api.opgc.me/githubs/users/hajinJ/tag/?theme=basic" /></a>
 
-![HajinJ's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hajinJ&count_private=true&show_icons=true&theme=algolia)
-
 ![HajinJ's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=hajinJ&stroke=ffffff&background=050F2C&ring=0194DD&fire=0194DD&currStreakNum=ffffff&currStreakLabel=0194DD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 ---
