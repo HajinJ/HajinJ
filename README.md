@@ -35,11 +35,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="HajinJ" height="140"/>
 </p>
 <div align=center>
-
-<a href="https://opgc.me/#/users/hajinJ" target="_blank"><img src="https://api.opgc.me/githubs/users/hajinJ/tag/?theme=basic" /></a>
 <div align="center">
   
-  [![sandro's github stats](https://github-readme-stats.vercel.app/api?username=HajinJ&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/HajinJ)
+  [![hajin's github stats](https://github-readme-stats.vercel.app/api?username=HajinJ&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/HajinJ)
   
 </div>
 
