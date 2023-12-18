@@ -37,6 +37,11 @@
 <div align=center>
 
 <a href="https://opgc.me/#/users/hajinJ" target="_blank"><img src="https://api.opgc.me/githubs/users/hajinJ/tag/?theme=basic" /></a>
+<div align="center">
+  
+  [![sandro's github stats](https://github-readme-stats.vercel.app/api?username=HajinJ&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/HajinJ)
+  
+</div>
 
 ![HajinJ's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=hajinJ&stroke=ffffff&background=050F2C&ring=0194DD&fire=0194DD&currStreakNum=ffffff&currStreakLabel=0194DD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 ---
