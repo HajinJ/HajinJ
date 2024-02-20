@@ -5,22 +5,31 @@
 
 ![Python](https://img.shields.io/badge/Python-9cf?logo=python)
 ![Java](https://img.shields.io/badge/Java-ff69b4?logo=openjdk)
-![Javascript](https://img.shields.io/badge/JAVA_SCRIPT-lightgrey?logo=javascript)
+![Javascript](https://img.shields.io/badge/ES6-yellow?logo=javascript)
 
 ### Back-End
 ![Django](https://img.shields.io/badge/Django-9cf?logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-9cf?logo=fastapi)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-ff69b4?logo=SpringBoot)
 ![JPA](https://img.shields.io/badge/JPA-ff69b4?logo=SpringBoot)
+![Nginx](https://img.shields.io/badge/nginx-black?logo=nginx)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?logo=Amazon%20AWS)
 
 ### Front-End
 ![React](https://img.shields.io/badge/React.js-lightgrey?logo=react)
+![Next](https://img.shields.io/badge/Next.js-lightgrey?logo=next)
 ![jQuery](https://img.shields.io/badge/jQuery-lightgrey?logo=jquery)
 ![CSS&Sass](https://img.shields.io/badge/CSS&Sass-lightgrey?logo=CSS3)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-important?logo=mysql)
 ![Oracle](https://img.shields.io/badge/Oracle-important?logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-red?logo=mongodb)
+
+### DevOps & Cloud Computing
+![AWS](https://img.shields.io/badge/AWS%20Solutions%20Architect-orange?logo=Amazon%20AWS)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-skyblue?logo=Github%20Actions)
+![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-skyblue?logo=Amazon%20AWS)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-9cf?logo=pandas)
