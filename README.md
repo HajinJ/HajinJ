@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHajinJ&count_bg=%236AA4A7&title_bg=%23B72626&icon=googlefit.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+## :running: HaJin <a href="https://gkwls0329.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
+
 ## 📑 Tech Stack
 
 ### Languages
