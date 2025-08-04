@@ -1,4 +1,4 @@
-## :running: HaJin <a href="https://gkwls0329.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
+## :running: HaJin <a href="https://hajinj.github.io/" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
 
 ## 📑 Tech Stack
 
