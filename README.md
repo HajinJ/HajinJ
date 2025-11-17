@@ -1,54 +1,48 @@
 ## :running: HaJin <a href="https://hajinj.github.io/" target="_blank"> <img src="https://img.shields.io/badge/@Tech_Blog-blueviolet"></a>
 
-## 📑 Tech Stack
+> Backend Developer transitioning to Game Development | 4 years experience in optimization & scalability
 
-### Languages
+---
 
-![Python](https://img.shields.io/badge/Python-9cf?logo=python)
-![Java](https://img.shields.io/badge/Java-ff69b4?logo=openjdk)
-![Javascript](https://img.shields.io/badge/ES6-yellow?logo=javascript)
+## 🎮 Game Development
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)
 
-### Back-End
-![Django](https://img.shields.io/badge/Django-9cf?logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-9cf?logo=fastapi)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-ff69b4?logo=SpringBoot)
-![JPA](https://img.shields.io/badge/JPA-ff69b4?logo=SpringBoot)
-![Nginx](https://img.shields.io/badge/nginx-black?logo=nginx)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?logo=Amazon%20AWS)
+## 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Front-End
-![React](https://img.shields.io/badge/React.js-lightgrey?logo=react)
-![Next](https://img.shields.io/badge/Next.js-lightgrey?logo=next)
-![jQuery](https://img.shields.io/badge/jQuery-lightgrey?logo=jquery)
-![CSS&Sass](https://img.shields.io/badge/CSS&Sass-lightgrey?logo=CSS3)
+## 🔧 Back-End & Infrastructure
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=SpringBoot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?logo=SpringBoot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-important?logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-important?logo=oracle)
-![MongoDB](https://img.shields.io/badge/MongoDB-red?logo=mongodb)
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### DevOps & Cloud Computing
-![AWS](https://img.shields.io/badge/AWS%20Solutions%20Architect-orange?logo=Amazon%20AWS)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-skyblue?logo=Github%20Actions)
-![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-skyblue?logo=Amazon%20AWS)
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=Amazon%20AWS&logoColor=white)
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-9cf?logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-9cf?logo=numpy)
-![jupyter](https://img.shields.io/badge/jupyter-9cf?logo=jupyter)
-![scikit-learn](https://img.shields.io/badge/scikit%20learn-9cf?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-9cf?logo=TensorFlow)
+## 🎨 Front-End
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
-## :wrench: GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="HajinJ" height="140"/>
-</p>
-<div align=center>
+## 📊 GitHub Stats
 <div align="center">
   
-  [![hajin's github stats](https://github-readme-stats.vercel.app/api?username=HajinJ&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/HajinJ)
-  
-</div>
+[![hajin's github stats](https://github-readme-stats.vercel.app/api?username=HajinJ&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/HajinJ)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajinJ&layout=compact&theme=react&langs_count=6)](https://github.com/HajinJ)
 
 ![HajinJ's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=hajinJ&stroke=ffffff&background=050F2C&ring=0194DD&fire=0194DD&currStreakNum=ffffff&currStreakLabel=0194DD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
----
+
+</div>
